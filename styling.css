@@ -29,7 +29,13 @@ body {
     border-bottom: 1px solid #00ffb8;
     padding-bottom: 9px;
 }
+
 /*Style jumbotron*/
+.jumbotron {
+    background-color: transparent;
+    color: white;
+    text-align: center;
+}
 
 /*limit the width of the icons section*/
 
