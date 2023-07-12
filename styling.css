@@ -76,7 +76,17 @@ body {
     letter-spacing: 1.3px;
 }
 
+.contact .btn:hover {
+    background-color: rgba(0, 0, 0, 0.5);
+}
+
 /* Style footer */
+.footer {
+    background-color: rgba(0, 0, 0, 0.5);
+    color: grey;
+    font-size: 15px;
+    padding: 10px 0;
+}
 
 /* use media-queries to change icons size in small devices */
 
