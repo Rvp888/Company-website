@@ -1,0 +1,25 @@
+/*Style body by adding background image and set it to cover,
+add font family*/
+body {
+    font-family: Arvo, serif;
+    background: url(https://freenaturestock.com/wp-content/uploads/freenaturestock-1165-768x512.jpeg) center center no-repeat;
+    background-size: 100% 100%;
+    background-attachment: fixed;
+}
+
+/*style brand*/
+
+/*Style navigation bar*/
+
+/*Style jumbotron*/
+
+/*limit the width of the icons section*/
+
+/*Style icons section using bootstrap grid system*/
+
+/*Style contact button*/
+
+/* Style footer */
+
+/* use media-queries to change icons size in small devices */
+
