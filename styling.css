@@ -63,7 +63,7 @@ body {
 .contact {
     text-align: center;
     margin-top: 30px;
-    margin-bottom: 100px;
+    margin-bottom: 120px;
 }
 
 .contact .btn {
@@ -89,4 +89,8 @@ body {
 }
 
 /* use media-queries to change icons size in small devices */
-
+@media (max-width: 768px) {
+    .bodyimage {
+        height: 70px;
+    }
+}
