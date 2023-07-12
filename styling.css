@@ -8,6 +8,13 @@ body {
 }
 
 /*style brand*/
+.navbar-brand {
+    margin-bottom: 10px;
+}
+.logo {
+    width: 35px;
+}
+
 
 /*Style navigation bar*/
 
